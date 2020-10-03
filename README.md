@@ -10,5 +10,8 @@
 [Ejercicio 1](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicios1_1_002.pdf)
 
 [E1](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicios1_1_002.ipynb)
+
 [E1](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicio_1.1.csv) 
+
 [E1](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicio_1.2.csv)
+
