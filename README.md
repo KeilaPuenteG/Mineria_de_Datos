@@ -15,3 +15,6 @@
 
 [E1](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicio_1.2.csv)
 
+[Mapa Mental 2](https://github.com/KeilaPuenteG/Mineria_de_Datos/blob/master/MapaMental_2_1807864.pdf)
+
+[Resúmenes Técnicas](https://github.com/KeilaPuenteG/Mineria_de_Datos/blob/master/Resumenes_1807864.pdf)
