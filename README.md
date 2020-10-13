@@ -1,4 +1,4 @@
-# Mineria_de_Datos
+# Mineria de Datos
 ## Facultad de Ciencias Físico-Matemáticas
 #### tareas
 ## FASE 1
@@ -21,4 +21,4 @@
 [Resúmenes Técnicas](https://github.com/KeilaPuenteG/Mineria_de_Datos/blob/master/Resumenes_1807864.pdf)
 
 ## FASE 2
-[Ejercicios Base de Datos 1](https://github.com/KeilaPuenteG/Mineria_de_Datos/blob/master/AnalisisBD_1807864.pdf)
+[Análisis Base de Datos 1](https://github.com/KeilaPuenteG/Mineria_de_Datos/blob/master/AnalisisBD_1807864.pdf)
