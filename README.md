@@ -1,6 +1,7 @@
 # Mineria_de_Datos
-# Facultad de Ciencias Físico-Matemáticas
-## tareas
+## Facultad de Ciencias Físico-Matemáticas
+#### tareas
+## FASE 1
 [Mapa Mental 1](https://github.com/KeilaPuenteG/Mineria_de_Datos/blob/master/MapaMental_1_1807864.pdf)
 
 [Presentación Clustering](https://github.com/patyarvizu/Mineria-de-datos/blob/master/Presentacion_Clustering_002.pdf)
@@ -18,3 +19,6 @@
 [Mapa Mental 2](https://github.com/KeilaPuenteG/Mineria_de_Datos/blob/master/MapaMental_2_1807864.pdf)
 
 [Resúmenes Técnicas](https://github.com/KeilaPuenteG/Mineria_de_Datos/blob/master/Resumenes_1807864.pdf)
+
+## FASE 2
+[Ejercicios Base de Datos]()
