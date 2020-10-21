@@ -22,3 +22,4 @@
 
 ## FASE 2
 [Análisis Base de Datos 1](https://github.com/KeilaPuenteG/Mineria_de_Datos/blob/master/AnalisisBD_1807864.pdf)
+[Python Ejercicios Básicos](https://github.com/KeilaPuenteG/Mineria_de_Datos/blob/master/PhytonBasico_1807864.ipynb)
