@@ -28,3 +28,4 @@
 
 [Avance I PIA](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/Avance1-PIA_01_02.pdf)
     
+[Avance PIA](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/Base_limpia.ipynb)
