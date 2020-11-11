@@ -31,3 +31,5 @@
 [P1-Manipulación de Datos_Equipo 1_Gpo 002](https://github.com/patyarvizu/Mineria-de-datos/blob/master/P1-Manipulaci%C3%B3n%20de%20datos%20E01-G002.ipynb)
 
 [P2-Visualización de Datos_Equipo 1_Gpo 002](https://github.com/patyarvizu/Mineria-de-datos/blob/master/P2-Visualizaci%C3%B3n%20de%20Datos%20E01-G002.ipynb)
+
+[Avance II PIA](https://github.com/patyarvizu/Mineria-de-datos/blob/master/AvancePIA_II_G002_E01.ipynb)
